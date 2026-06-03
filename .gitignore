@@ -1,0 +1,21 @@
+.venv
+.vscode
+.DS_Store
+__pycache__
+datasets
+features
+
+# Datasets & indexes
+caltech-101/
+*.faiss
+*.npy
+*.pkl
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+ahrefs/
+*.code-workspace
+*.zip

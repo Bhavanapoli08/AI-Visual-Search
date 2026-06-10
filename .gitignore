@@ -19,3 +19,28 @@ __pycache__/
 ahrefs/
 *.code-workspace
 *.zip
+
+# Virtual environments
+.venv/
+venv/
+venv311/
+
+# Datasets
+caltech-101/
+datasets/
+
+# Models
+*.h5
+
+# Archives
+*.zip
+*.tar.gz
+
+# Generated files
+*.faiss
+*.index
+*.npy
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/

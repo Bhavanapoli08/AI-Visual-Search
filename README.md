@@ -19,27 +19,7 @@ Upload any image → get the top-K most visually similar images back in under **
 
 ---
 
-## 🖥️ Screenshots
 
-### Home Page — Query Image Upload
-<!-- Add your screenshot here -->
-![Upload Interface](screenshots/upload_interface.png)
-
-### Search Results — Airplane Query
-<!-- Add your screenshot here -->
-![Airplane Results](screenshots/results_airplane.png)
-
-### Search Results — Butterfly Query
-<!-- Add your screenshot here -->
-![Butterfly Results](screenshots/results_butterfly.png)
-
-### t-SNE Feature Embedding Visualization
-<!-- Add your screenshot here -->
-![t-SNE Visualization](screenshots/tsne_visualization.png)
-
-### FAISS Index Statistics
-<!-- Add your screenshot here -->
-![FAISS Stats](screenshots/faiss_index_stats.png)
 
 ---
 
